@@ -1,4 +1,4 @@
-# HW-2-RAWGraphs-Build-A-Graph
+## HW-2-RAWGraphs-Build-A-Graph
 
 # I've created a graph using data from the OECD and a website RAWGraphs.io. This is a area graph which shows the size of a country's debt from 1996-2018. I chose the colors because they were easier on the eye than the plain black and allowed for the reader to see the names of the countries (the black and white-only version blocked them out). 
 
